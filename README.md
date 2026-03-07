@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Padhi</h1>
-<h3 align="center">🚀 Full Stack Developer | Building dynamic solutions for the digital age</h3>
+<h3 align="center">🚀 Full Stack Developer | Turning Coffee into Code ☕</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+Scalable+Web+Apps;Debugging+Life+One+Bug+At+A+Time;Always+Learning+New+Tech" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RemasteredGod&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -11,9 +15,17 @@
 
 <img align="right" width="260" src="https://avatars.githubusercontent.com/u/97588514?s=400&v=4">
 
-Hello, I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys turning ideas into powerful digital products.
+Hello! I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys building modern web applications and experimenting with new technologies.
 
-💡 I love building **scalable web applications**, solving complex problems, and improving performance.
+💡 I love solving complex problems and creating efficient digital solutions.
+
+---
+
+# 💃 Coding Mood
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+</p>
 
 ---
 
@@ -40,12 +52,18 @@ Hello, I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RemasteredGod&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 # 📈 GitHub Activity Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RemasteredGod&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
@@ -53,9 +71,15 @@ Hello, I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=RemasteredGod&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -63,18 +87,16 @@ Hello, I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/RemasteredGod">
 <img src="https://img.shields.io/badge/GitHub-RemasteredGod-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 # ⚡ Fun Fact
 
-> "Code is not just syntax — it's the art of solving problems."
+> I don't always test my code… but when I do, I do it in production 😎
 
 ---
 
