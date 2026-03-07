@@ -60,7 +60,8 @@ Hello! I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 </p>
 
 ---
-
+[![Star History Chart](https://api.star-history.com/svg?repos=RemasteredGod/django-project,RemasteredGod/github-readme&type=Date)](https://www.star-history.com/#RemasteredGod/django-project&RemasteredGod/github-readme&Date)
+---
 # 🔥 GitHub Streak
 
 <p align="center">
