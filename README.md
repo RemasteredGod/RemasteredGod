@@ -51,8 +51,8 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AshstarTempest&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshstarTempest&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=RemasteredGod&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemasteredGod&layout=compact&theme=tokyonight&hide_border=true" height="170">
 </p>
 
 ---
@@ -60,7 +60,7 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AshstarTempest&theme=tokyonight&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=RemasteredGod&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -68,8 +68,8 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/AshstarTempest">
-<img src="https://img.shields.io/badge/GitHub-AshstarTempest-181717?style=for-the-badge&logo=github">
+<a href="https://github.com/RemasteredGod">
+<img src="https://img.shields.io/badge/GitHub-RemasteredGod-181717?style=for-the-badge&logo=github">
 </a>
 </p>
 
@@ -82,5 +82,5 @@ I specialize in building **modern, scalable, and efficient web applications** us
 ---
 
 <p align="center">
-⭐ From <a href="https://github.com/AshstarTempest">Ashutosh Padhi</a>
+⭐ From <a href="https://github.com/RemasteredGod">Ashutosh Padhi</a>
 </p>
