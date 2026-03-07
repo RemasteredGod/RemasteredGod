@@ -51,6 +51,8 @@ Hello! I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
 ---
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+---
 # 📈 GitHub Activity Graph
 
 <p align="center">
