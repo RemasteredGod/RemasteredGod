@@ -51,13 +51,11 @@ Hello! I'm **Ashutosh Padhi**, a passionate **Full Stack Developer** who enjoys 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
 ---
-
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=RemasteredGod&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RemasteredGod&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
 
 # 📈 GitHub Activity Graph
