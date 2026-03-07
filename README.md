@@ -22,28 +22,31 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 🚀 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ### 🛠 Tools & Platforms
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel)
 
 ---
 
 # 💡 What I Do
 
-✨ Build **responsive and user-friendly web applications**  
-⚡ Develop **RESTful APIs and backend systems**  
-☁️ Integrate **cloud services like Firebase & Vercel**  
+✨ Build **responsive and user-friendly web applications**
+⚡ Develop **RESTful APIs and backend systems**
+☁️ Integrate **cloud services like Firebase & Vercel**
 🔍 Debug and optimize applications for **maximum performance**
 
 ---
@@ -51,17 +54,21 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RemasteredGod&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemasteredGod&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RemasteredGod&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemasteredGod&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RemasteredGod&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemasteredGod&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=RemasteredGod&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -69,9 +76,11 @@ I specialize in building **modern, scalable, and efficient web applications** us
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/RemasteredGod">
-<img src="https://img.shields.io/badge/GitHub-RemasteredGod-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-RemasteredGod-181717?style=for-the-badge&logo=github" />
 </a>
+
 </p>
 
 ---
