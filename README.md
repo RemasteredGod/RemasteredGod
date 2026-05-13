@@ -14,17 +14,31 @@
 
 ### what i've shipped
 
-🔊 **samadhan** — AI voice grievance system for Delhi Municipal Corporation  
-> citizens call a phone number, speak in Hindi/Hinglish, AI handles the complaint end-to-end  
-> `Exotel PSTN` · `WebSocket audio streaming` · `custom MULAW/PCM DSP` · `Gemini dual-model` · `Jaccard deduplication`  
+🔊 **[samadhan](https://github.com/RemasteredGod/samadhan)** — AI voice grievance system for Delhi Municipal Corporation
+
+> citizens call a phone number, speak in Hindi/Hinglish, AI handles the complaint end-to-end
+> 
+> `Exotel PSTN` · `WebSocket audio streaming` · `custom MULAW/PCM DSP` · `Gemini dual-model` · `Jaccard deduplication`
+> 
 > 🏆 competed at India Innovates 2026
 
-💬 **zubaan** — AI messaging coach for young Indian men  
-> screenshot a chat → get 3 contextual reply options · hinglish-native  
+💬 **zubaan** — AI messaging coach for young Indian men
+
+> screenshot a chat → get 3 contextual reply options · hinglish-native
+> 
 > `React Native` · `Gemini API` · `RevenueCat` · Play Store launch June 2026
 
-📚 **courseloom** — full-stack SaaS course creation platform  
+📚 **courseloom** — full-stack SaaS course creation platform
+
 > `Next.js 14+` · `Prisma` · `PostgreSQL` · `Cloudflare R2` · `Razorpay/Stripe` · `Gemini 2.5 Flash`
+
+🔍 **[PRGI title validator](https://github.com/RemasteredGod/PRGI-model-XIM)** — semantic title matching against 70K registry
+
+> `FastAPI` · `fuzzy/phonetic/cross-language matching` · `5-priority verification` · `admin batch review`
+
+📡 **[advaita unplayed](https://github.com/RemasteredGod/advaita-unplayed)** — real-time synchronized video broadcast system
+
+> `Node.js` · `Socket.io` · `Docker` · `admin-controlled playback sync`
 
 ---
 
