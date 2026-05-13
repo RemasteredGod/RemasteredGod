@@ -59,9 +59,6 @@ const ash = {
 
 ### stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RemasteredGod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" height="165"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RemasteredGod&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=555555"/>
