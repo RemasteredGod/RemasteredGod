@@ -1,7 +1,7 @@
 <h1 align="center">ashutosh padhi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=building+AI+products+that+ship;voice+agents+%7C+full-stack+%7C+LLM+systems;node.js+%7C+next.js+%7C+typescript+%7C+gemini" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=building+AI+products+that+ship;voice+agents+%7C+full-stack+%7C+LLM+systems;node.js+%7C+next.js+%7C+typescript+%7C+gemini" />
 </p>
 
 <p align="center">
