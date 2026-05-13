@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ashutoshpadhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ashutosh-padhi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/Ashstar_Tempest"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="mailto:apadhi6638@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
